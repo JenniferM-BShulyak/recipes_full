@@ -33,4 +33,4 @@ Each category has a similar distribution with a mean between 4.6 and 4.7 stars a
 
 ![Trendy](https://user-images.githubusercontent.com/111457464/225747984-442dbd0f-0b14-4865-8ed3-90ca0ae3d603.png)
 
-
+Quinoa, coconut, and cauliflower were chosen as trendy ingredients as they are popular substitutes for bread and rice, other oils and milks, and potatoes, respectively. The prevalence of all three "trendy" ingredients have increased over time indicating that recipe producers were catering to an audience looking for healthy options. Coconut has the greatest popularity which could be due to its versability: milk, oil, sweetener, and flour. There is a clear decrease in all three ingredients after 2019 which is likely due to the decreased number of recipes availble for the year 2020. 
