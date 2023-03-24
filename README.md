@@ -32,3 +32,5 @@ Each category has a similar distribution with a mean between 4.6 and 4.7 stars a
 
 
 ![Trendy](https://user-images.githubusercontent.com/111457464/225747984-442dbd0f-0b14-4865-8ed3-90ca0ae3d603.png)
+
+
