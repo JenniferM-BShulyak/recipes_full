@@ -25,6 +25,11 @@ Regex was used to identify recipes with trendy and health conscious ingredients 
 ________________________________________________________
 
 # Analysis
+## Overall Rating Distribution
+
+![OverallDistribution](https://user-images.githubusercontent.com/111457464/229893983-b8a4a355-679f-4e01-a8f0-87a33990b30f.png)
+
+* The mean rating is 4.63 with a standard deviation of 0.64. The median is 5.00. The distibution of ratings is highly skewed in favor of a high rating. The count of recipes at each rating was scaled using the Square Root Function in order to better visualize the distribution. 
 
 ## Rating Distribution by Category
 
@@ -36,7 +41,7 @@ ________________________________________________________
 
 ## Trendy Ingredients Over Time
 
-![Trendy](https://user-images.githubusercontent.com/111457464/225747984-442dbd0f-0b14-4865-8ed3-90ca0ae3d603.png)
+![Trendy](https://user-images.githubusercontent.com/111457464/229894457-8f9b2e9e-f842-4471-8844-592455d2eb10.png)
 
 * Quinoa, coconut, and cauliflower were chosen as trendy ingredients as they are popular substitutes for bread and rice, other oils and milks, and potatoes, respectively. The percentage of recipes that contain the ingredients rather than the raw number of recipes with the ingredients was used because the number of recipes loaded to Food.com was inconsistent. 
 
